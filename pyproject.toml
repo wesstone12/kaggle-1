@@ -8,6 +8,8 @@ dependencies = [
     "hatch>=1.13.0",
     "ipykernel>=6.29.5",
     "kaggle>=1.6.17",
+    "matplotlib>=3.9.2",
     "pandas>=2.2.3",
     "polars>=1.10.0",
+    "seaborn>=0.13.2",
 ]
